@@ -1,6 +1,7 @@
 package org.itdebug.received;
 
 /**
+ * Receiver
  * 请求类
  */
 public class Stock {

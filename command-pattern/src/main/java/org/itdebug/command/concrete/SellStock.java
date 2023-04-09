@@ -1,9 +1,10 @@
-package org.itdebug.command;
+package org.itdebug.command.concrete;
 
-import org.itdebug.received.Order;
+import org.itdebug.command.Order;
 import org.itdebug.received.Stock;
 
 /**
+ * ConcreteCommand
  * 实体命令类
  */
 public class SellStock implements Order {

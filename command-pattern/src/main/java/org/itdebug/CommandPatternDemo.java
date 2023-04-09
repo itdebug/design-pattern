@@ -1,10 +1,13 @@
 package org.itdebug;
 
-import org.itdebug.command.BuyStock;
-import org.itdebug.command.SellStock;
+import org.itdebug.command.concrete.BuyStock;
+import org.itdebug.command.concrete.SellStock;
 import org.itdebug.invoker.Broker;
 import org.itdebug.received.Stock;
 
+/**
+ * Client
+ */
 public class CommandPatternDemo {
 
     /**
