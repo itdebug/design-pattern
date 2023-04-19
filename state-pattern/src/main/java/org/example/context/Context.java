@@ -1,0 +1,17 @@
+package org.example.context;
+
+import org.example.state.State;
+
+public class Context {
+
+    private State state;
+
+
+    public State getState() {
+        return state;
+    }
+
+    public void setState(State state) {
+        this.state = state;
+    }
+}
