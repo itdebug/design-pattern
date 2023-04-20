@@ -1,8 +1,8 @@
 package org.example.factory;
 
-import org.example.businessdelegate.BusinessService;
-import org.example.businessdelegate.EJBService;
-import org.example.businessdelegate.JMSService;
+import org.example.business.BusinessService;
+import org.example.business.EJBService;
+import org.example.business.JMSService;
 
 public class BusinessLookUp {
 

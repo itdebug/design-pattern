@@ -1,6 +1,6 @@
 package org.example.client;
 
-import org.example.businessdelegate.BusinessDelegate;
+import org.example.delegate.BusinessDelegate;
 
 public class Client {
 

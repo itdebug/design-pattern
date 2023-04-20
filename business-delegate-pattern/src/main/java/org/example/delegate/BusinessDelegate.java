@@ -1,5 +1,6 @@
-package org.example.businessdelegate;
+package org.example.delegate;
 
+import org.example.business.BusinessService;
 import org.example.factory.BusinessLookUp;
 
 public class BusinessDelegate {

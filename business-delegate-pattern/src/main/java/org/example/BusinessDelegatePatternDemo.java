@@ -1,7 +1,7 @@
 package org.example;
 
-import org.example.businessdelegate.BusinessDelegate;
 import org.example.client.Client;
+import org.example.delegate.BusinessDelegate;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package org.example.businessdelegate;
+package org.example.business;
 
 public class EJBService implements BusinessService {
 
