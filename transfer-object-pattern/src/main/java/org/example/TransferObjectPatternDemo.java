@@ -4,7 +4,7 @@ import org.example.business.StudentBO;
 import org.example.transfer.StudentVO;
 
 /**
- * Hello world!
+ * 访问对象模式和数据访问对象模式(data-access-object-pattern)很类似
  */
 public class TransferObjectPatternDemo {
     public static void main(String[] args) {
